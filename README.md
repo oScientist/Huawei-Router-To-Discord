@@ -1,4 +1,4 @@
-# Huawei Router Discord Bot 🌐🤖
+# Huawei Router Discord Bot 🌐🤖 (Huawei Router HS8545M5)
 
 A custom Discord bot built using `discord.py` that interfaces with Huawei routers via a companion framework (`HuaweiDiscordFramework`) to manage network settings, MAC filtering, wireless access, and device lists directly through Discord commands.
 

@@ -33,7 +33,7 @@ Clone or download the project files into your working directory, ensuring `main_
 Install the required dependencies:
 
 ```
-pip install discord.py
+pip install requirements.txt
 
 ```
 
